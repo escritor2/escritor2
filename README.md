@@ -11,13 +11,11 @@
 
 🌱 Atualmente aprendendo
 - [Seu framework/language atual, ex: React Native, Node.js]
-- [Outra tecnologia, ex: Docker, Kubernetes]
-- [Área de interesse, ex: Ciência da computação]
+- [Área de interesse: Ciência da computação]
 
 📫 Como me encontrar
 - [LinkedIn]((https://www.linkedin.com/in/gabriel-ferreira-2b7ab5250/))
-- [Portfólio](https://seuportfolio.com)
-- Email: seu.email@dev.com
+- Email: gabrielferreira0598@gmail.com
 escritor2/escritor2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
