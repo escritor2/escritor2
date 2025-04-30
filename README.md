@@ -15,7 +15,7 @@
 - [Área de interesse, ex: Ciência da computação]
 
 📫 Como me encontrar
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
+- [LinkedIn]((https://www.linkedin.com/in/gabriel-ferreira-2b7ab5250/))
 - [Portfólio](https://seuportfolio.com)
 - Email: seu.email@dev.com
 escritor2/escritor2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
