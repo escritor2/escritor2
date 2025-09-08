@@ -10,8 +10,7 @@
 - UI/UX Design
 
 🌱 Atualmente aprendendo
-- [Seu framework/language atual, ex: React Native, Node.js]
-- [Área de interesse: Ciência da computação]
+BackEnd PHP, Foundations JAVA, html, css
 
 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/gabriel-ferreira-2b7ab5250/)
