@@ -1,11 +1,5 @@
 # Olá, eu sou o escritor2! 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=escritor2&show_icons=true" alt="Estatísticas do GitHub do escritor2"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escritor2&layout=compact" alt="Linguagens Mais Usadas do escritor2"/>
-</p>
 
 Sou um entusiasta da tecnologia, atualmente imerso nos estudos de **Desenvolvimento de Sistemas** e **Ciências da Computação**. Minha jornada no mundo da programação começou com uma base sólida em **Java Foundations** e **Python Básico**, e desde então tenho expandido meus conhecimentos em diversas áreas.
 
