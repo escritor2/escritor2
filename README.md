@@ -1,4 +1,4 @@
-# Olá, eu sou o escritor2! 👋
+# Olá, eu sou o Gabriel! 👋
 
 
 Sou um entusiasta da tecnologia, atualmente imerso nos estudos de **Desenvolvimento de Sistemas** e **Ciências da Computação**. Minha jornada no mundo da programação começou com uma base sólida em **Java Foundations** e **Python Básico**, e desde então tenho expandido meus conhecimentos em diversas áreas.
