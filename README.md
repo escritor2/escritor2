@@ -44,4 +44,3 @@ Estou sempre aberto a novas conexões, discussões sobre tecnologia e oportunida
   </a>
 </p>
 
-*Lembre-se de substituir `SEU_USUARIO_LINKEDIN` e `SEU_EMAIL@example.com` pelos seus dados reais.*
