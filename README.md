@@ -25,7 +25,6 @@ Estou sempre aprendendo e aprimorando minhas habilidades nas seguintes tecnologi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
   <img src="https://img.shields.io/badge/IoT-007ACC?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT Badge"/>
-  <img src="https://img.shields.io/badge/Full_Stack-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Full Stack Badge"/>
 </p>
 
 ## 📁 O que você encontrará aqui
