@@ -36,7 +36,7 @@ Neste perfil, você encontrará uma coleção de projetos que refletem meu apren
 Estou sempre aberto a novas conexões, discussões sobre tecnologia e oportunidades de colaboração. Sinta-se à vontade para explorar meus repositórios e entrar em contato:
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN](https://www.linkedin.com/in/gabriel-ferreira-2b7ab5250/)" target="_blank">
+  <a href="www.linkedin.com/in/gabriel-ferreira-2b7ab5250" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:gabrielferreira0598@gmail.com">
