@@ -1,5 +1,4 @@
 # ⚡ Gabriel Ferreira
-### `Full Stack Developer` | `Data Enthusiast` | `IoT Explorer`
 
 ---
 
@@ -32,11 +31,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=transparent" />
   </a>
 </p>
-
----
-
-### 📈 Atividade Semanal
-```text
-JavaScript   42 mins ████░░░░░░░░░░░░░░░░░░░░░   15.2% 
-Python       1 hr 12 mins ███████░░░░░░░░░░░░░░░   25.8%
-Java         2 hrs 15 mins ██████████████░░░░░░░   45.1%
