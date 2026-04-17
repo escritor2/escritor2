@@ -61,3 +61,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=escritor2&color=blue&style=flat" alt="Profile views" />
 </p>
+
+
+[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=escritor2&theme=github-dark&hide_border=true )](https://github.com/Ashutosh00710/github-readme-activity-graph )
