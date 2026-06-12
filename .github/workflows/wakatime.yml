@@ -1,0 +1,54 @@
+name: Generate WakaTime Metrics
+
+on:
+  # Atualiza semanalmente para evitar excesso de chamadas à API do WakaTime.
+  schedule:
+    - cron: "0 0 * * 0"
+
+  # Execute manualmente após criar o segredo WAKATIME_API_KEY.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  wakatime:
+    name: Generate WakaTime metrics
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      # O workflow só gera o cartão quando o segredo estiver configurado.
+      - name: Check WakaTime API key
+        id: wakatime-secret
+        shell: bash
+        run: |
+          if [ -z "${{ secrets.WAKATIME_API_KEY }}" ]; then
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::WAKATIME_API_KEY não configurado. Crie o segredo em Settings > Secrets and variables > Actions."
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Gera github-wakatime.svg na raiz do repositório.
+      # README usa: https://raw.githubusercontent.com/escritor2/escritor2/main/github-wakatime.svg
+      - name: Generate WakaTime metrics SVG
+        if: steps.wakatime-secret.outputs.configured == 'true'
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-wakatime.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: escritor2
+          output_action: commit
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
+          plugin_wakatime_sections: time, languages, projects, editors
+          plugin_wakatime_days: 30
+          plugin_wakatime_limit: 6
+          plugin_wakatime_repositories_visibility: public

@@ -1,0 +1,37 @@
+name: Update Blog Posts
+
+on:
+  # Atualiza artigos diariamente. Ajuste para semanal se publicar com menos frequência.
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Permite atualizar manualmente após alterar o feed RSS.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      # Atualiza a região entre <!-- BLOG-POSTS:START --> e <!-- BLOG-POSTS:END --> no README.md.
+      # O feed padrão usa a linha do tempo pública do GitHub. Substitua por RSS/Atom do seu blog quando desejar.
+      - name: Pull latest RSS posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          readme_path: README.md
+          comment_tag_name: BLOG-POSTS
+          feed_list: "https://github.com/escritor2.atom"
+          feed_names: "GitHub Public Timeline"
+          max_post_count: 4
+          date_format: "UTC:dd/mm/yyyy"
+          title_max_length: 72
+          description_max_length: 140
+          template: "$newline- [$title]($url) $newline    $description $newline    _Publicado em $date via $feedName_ $newline"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}

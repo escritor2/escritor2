@@ -1,0 +1,46 @@
+name: Generate 3D Contribution Graph
+
+on:
+  # Executa diariamente para manter o gráfico 3D atualizado.
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Permite reprocessar manualmente após alterações no conf/github-profile-3d-contrib.json.
+  workflow_dispatch:
+
+  # Reexecuta ao publicar mudanças na branch main do perfil.
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Generate isometric contribution graph
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v5
+
+      # Gera day.svg e night.svg usando o tema definido em conf/github-profile-3d-contrib.json.
+      - name: Generate 3D contribution SVGs
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: conf/github-profile-3d-contrib.json
+
+      # Publica os SVGs na branch output-3d-contrib.
+      # README usa:
+      # https://raw.githubusercontent.com/escritor2/escritor2/output-3d-contrib/day.svg
+      # https://raw.githubusercontent.com/escritor2/escritor2/output-3d-contrib/night.svg
+      - name: Push 3D SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-3d-contrib
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

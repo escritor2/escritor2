@@ -1,0 +1,43 @@
+name: Generate Snake Animation
+
+on:
+  # Executa diariamente para manter a animação alinhada com novas contribuições.
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Permite executar manualmente em Actions > Generate Snake Animation > Run workflow.
+  workflow_dispatch:
+
+  # Reexecuta ao publicar mudanças na branch main do perfil.
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    name: Generate contribution snake
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # Gera SVGs claro/escuro a partir do gráfico de contribuições de @escritor2.
+      - name: Generate snake SVGs
+        uses: platane/snK/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Publica os SVGs na branch output.
+      # README usa: https://raw.githubusercontent.com/escritor2/escritor2/output/github-contribution-grid-snake.svg
+      - name: Push snake SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
