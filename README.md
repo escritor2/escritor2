@@ -10,10 +10,7 @@
 -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=animated&color=0D1117,161B22,00A676&height=240&section=header&text=Gabriel%20Ferreira&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Automation%20%7C%20IoT%20%7C%20Data%20%7C%20Mobile&descAlignY=58&descAlign=50"
-    alt="Header animado de Gabriel Ferreira"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0D1117,161B22,00A676&height=240&section=header&text=Gabriel%20Ferreira&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Automation%20%7C%20IoT%20%7C%20Data%20%7C%20Mobile&descAlignY=58&descAlign=50" alt="Header animado de Gabriel Ferreira" />
 </p>
 
 <p align="center">

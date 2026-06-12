@@ -23,11 +23,11 @@ jobs:
 
     steps:
       - name: Checkout profile repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       # Gera day.svg e night.svg usando o tema definido em conf/github-profile-3d-contrib.json.
       - name: Generate 3D contribution SVGs
-        uses: yoshi389111/github-profile-3d-contrib@latest
+        uses: yoshi389111/github-profile-3d-contrib@0.7.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
