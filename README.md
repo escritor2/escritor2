@@ -261,6 +261,33 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 Esta área é atualizada automaticamente pelo workflow `blog-posts.yml` a partir de feeds RSS/Atom. O feed padrão usa a linha do tempo pública do GitHub; para exibir artigos reais, substitua `feed_list` pelo RSS do seu blog, Medium, Hashnode, Dev.to ou site próprio em `.github/workflows/blog-posts.yml`.
 
 <!-- BLOG-POSTS:START -->
+- [escritor2 pushed escritor2](https://github.com/escritor2/escritor2/compare/f7ff26e959...47f66872aa) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-... 
+    _Publicado em 12/06/2026 via $feedName_ 
+
+- [escritor2 pushed escritor2](https://github.com/escritor2/escritor2/compare/4bc5b83075...f7ff26e959) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-... 
+    _Publicado em 12/06/2026 via $feedName_ 
+
+- [escritor2 pushed PFE](https://github.com/escritor2/PFE/compare/ce0b1324e3...0125eccfa6) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-... 
+    _Publicado em 12/06/2026 via $feedName_ 
+
+- [escritor2 pushed PredialFix](https://github.com/GoldenLeap/PredialFix/compare/1b91d1d0da...103aeb2cf7) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-... 
+    _Publicado em 10/06/2026 via $feedName_ 
 <!-- BLOG-POSTS:END -->
 
 <img
