@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 300" width="850" height="300" style="background-color: #050507; font-family: 'Segoe UI', -apple-system, sans-serif;">
+  <defs>
+    <!-- Import de fontes premium -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@800;900&amp;family=Share+Tech+Mono&amp;display=swap');
+      
+      .main-title {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 900;
+        font-size: 44px;
+        fill: #FFFFFF;
+        letter-spacing: 5px;
+      }
+      .sub-title {
+        font-family: 'Share Tech Mono', monospace;
+        font-size: 16px;
+        fill: #FF1A4B;
+        letter-spacing: 0.5px;
+      }
+
+      /* ANIMAÇÕES DAS ONDAS E FILAMENTOS */
+      .wave-flow-1 { animation: waveMove 14s linear infinite; }
+      .wave-flow-2 { animation: waveMove 10s linear infinite; }
+      .wave-flow-3 { animation: waveMove 18s linear infinite; }
+      .wave-flow-4 { animation: waveMove 7s linear infinite; }
+      
+      @keyframes waveMove {
+        0% { transform: translateX(0px); }
+        100% { transform: translateX(-850px); }
+      }
+
+      /* Brilho pulsante de fundo */
+      .ambient-glow {
+        animation: pulseGlow 8s ease-in-out infinite;
+      }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.65; }
+        50% { opacity: 0.95; }
+      }
+
+      /* Partículas cintilantes */
+      .star-particle {
+        animation: twinkle 5s ease-in-out infinite;
+      }
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.1; transform: scale(0.8); }
+        50% { opacity: 0.85; transform: scale(1.2); filter: drop-shadow(0 0 3px #FF1A4B); }
+      }
+
+      /* Cursor de Digitação */
+      .cursor-mover {
+        transform: translateX(0);
+        animation: typeCursor 10s linear infinite;
+      }
+      @keyframes typeCursor {
+        0% { transform: translateX(0); }
+        45%, 85% { transform: translateX(455px); }
+        95%, 100% { transform: translateX(0); }
+      }
+    </style>
+
+    <!-- Filtro de Glow Premium Nítido -->
+    <filter id="neon-glow-refined" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Gradiente de Fundo Nebula (Glow centralizado de profundidade) -->
+    <radialGradient id="nebula-radial" cx="30%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#2d040c" stop-opacity="0.8" />
+      <stop offset="70%" stop-color="#050507" stop-opacity="1" />
+    </radialGradient>
+
+    <!-- Gradientes para a fita de ondas -->
+    <linearGradient id="wave-grad-a" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B0000" stop-opacity="0.1" />
+      <stop offset="40%" stop-color="#FF1A4B" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#FF5E84" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#8B0000" stop-opacity="0.1" />
+    </linearGradient>
+    <linearGradient id="wave-grad-b" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4D0000" stop-opacity="0.05" />
+      <stop offset="50%" stop-color="#DC143C" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#4D0000" stop-opacity="0.05" />
+    </linearGradient>
+
+    <!-- Grid Holográfico sutil de fundo -->
+    <pattern id="clean-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#130507" stroke-width="0.6" />
+    </pattern>
+
+    <!-- Máscara de Digitação -->
+    <clipPath id="typing-clip">
+      <rect x="65" y="152" height="30" width="0">
+        <animate attributeName="width" values="0; 470; 470; 0; 0" keyTimes="0; 0.45; 0.85; 0.95; 1" dur="10s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- CAMADA DE FUNDO -->
+  <rect width="100%" height="100%" fill="#050507" />
+  <rect width="100%" height="100%" fill="url(#nebula-radial)" class="ambient-glow" />
+  <rect width="100%" height="100%" fill="url(#clean-grid)" opacity="0.8" />
+
+  <!-- EFEITO DE PARTICULAS (POEIRA ESTELAR NEON) -->
+  <g fill="#FF3366">
+    <circle cx="120" cy="70" r="1.5" class="star-particle" style="animation-delay: 0s; animation-duration: 4s;" />
+    <circle cx="290" cy="110" r="2" class="star-particle" style="animation-delay: 1.5s; animation-duration: 6s;" />
+    <circle cx="480" cy="65" r="1" class="star-particle" style="animation-delay: 3s; animation-duration: 5s;" />
+    <circle cx="650" cy="120" r="2.5" class="star-particle" style="animation-delay: 0.5s; animation-duration: 7s;" />
+    <circle cx="780" cy="80" r="1.5" class="star-particle" style="animation-delay: 2.2s; animation-duration: 4.5s;" />
+    <circle cx="340" cy="85" r="2.2" class="star-particle" style="animation-delay: 1s; animation-duration: 5.5s;" />
+  </g>
+
+  <!-- ONDAS E FILAMENTOS DE LUZ (Efeito fita de energia cinemática fluida) -->
+  <g filter="url(#neon-glow-refined)">
+    <!-- Filamento Profundo Lento -->
+    <path class="wave-flow-3" fill="none" stroke="url(#wave-grad-b)" stroke-width="1.2" 
+      d="M 0 205 C 212.5 130, 212.5 280, 425 205 C 637.5 130, 637.5 280, 850 205 C 1062.5 130, 1062.5 280, 1275 205 C 1487.5 130, 1487.5 280, 1700 205" />
+    
+    <!-- Filamento Principal Espesso -->
+    <path class="wave-flow-1" fill="none" stroke="url(#wave-grad-a)" stroke-width="3" 
+      d="M 0 190 C 212.5 100, 212.5 280, 425 190 C 637.5 100, 637.5 280, 850 190 C 1062.5 100, 1062.5 280, 1275 190 C 1487.5 100, 1487.5 280, 1700 190" />
+    
+    <!-- Filamento de Destaque Fino -->
+    <path class="wave-flow-2" fill="none" stroke="url(#wave-grad-a)" stroke-width="1.2" 
+      d="M 0 180 C 212.5 115, 212.5 245, 425 180 C 637.5 115, 637.5 245, 850 180 C 1062.5 115, 1062.5 245, 1275 180 C 1487.5 115, 1487.5 245, 1700 180" />
+
+    <!-- Filamento Rápido de Contraste -->
+    <path class="wave-flow-4" fill="none" stroke="#FF5E84" stroke-width="0.8" style="animation-delay: -1.5s;"
+      d="M 0 195 C 212.5 135, 212.5 255, 425 195 C 637.5 135, 637.5 255, 850 195 C 1062.5 135, 1062.5 255, 1275 195 C 1487.5 135, 1487.5 255, 1700 195" />
+  </g>
+
+  <!-- NOME PRINCIPAL (Tipografia Premium com Glow Nítido) -->
+  <g>
+    <text x="65" y="130" class="main-title" style="text-shadow: 0 0 10px #FF1A4B, 0 0 2px #FFFFFF;">
+      GABRIEL FERREIRA
+    </text>
+  </g>
+
+  <!-- SUBTÍTULO (Efeito Máquina de Escrever) -->
+  <g>
+    <text x="65" y="168" class="sub-title" clip-path="url(#typing-clip)">
+      Computer Science Student | Full Stack Developer
+    </text>
+    
+    <!-- Cursor do Terminal Dinâmico -->
+    <rect class="cursor-mover" x="65" y="152" width="3" height="18" fill="#FF1A4B" filter="url(#neon-glow-refined)">
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
