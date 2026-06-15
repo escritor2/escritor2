@@ -238,6 +238,33 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 ## 📰 Atividade pública e publicações
 
 <!-- BLOG-POSTS:START -->
+- [escritor2 pushed escritor2](https://github.com/escritor2/escritor2/compare/ed10be7ad3...f2ae5bff91) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-... 
+    _Publicado em 14/06/2026 via $feedName_ 
+
+- [escritor2 created a branch](https://github.com/escritor2/MailFLow/compare/0000000000...ff89cc82c7) 
+    &lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- create --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=... 
+    _Publicado em 14/06/2026 via $feedName_ 
+
+- [escritor2 pushed escritor2](https://github.com/escritor2/escritor2/compare/f7ff26e959...47f66872aa) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-... 
+    _Publicado em 12/06/2026 via $feedName_ 
+
+- [escritor2 pushed escritor2](https://github.com/escritor2/escritor2/compare/4bc5b83075...f7ff26e959) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-... 
+    _Publicado em 12/06/2026 via $feedName_ 
 <!-- BLOG-POSTS:END -->
 
 <hr style="border: 0; height: 1px; background: #DC143C; margin: 20px 0;" />
