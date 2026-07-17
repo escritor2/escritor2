@@ -251,13 +251,6 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class=&quot;d-... 
     _Publicado em 19/06/2026 via $feedName_ 
-
-- [escritor2 pushed PredialFix](https://github.com/GoldenLeap/PredialFix/compare/a938ac05bb...a0d1602d16) 
-    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-... 
-    _Publicado em 16/06/2026 via $feedName_ 
 <!-- BLOG-POSTS:END -->
 
 <hr style="border: 0; height: 1px; background: #DC143C; margin: 20px 0;" />
