@@ -244,13 +244,6 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class=... 
     _Publicado em 21/06/2026 via $feedName_ 
-
-- [escritor2 pushed MailFLow](https://github.com/escritor2/MailFLow/compare/ff89cc82c7...dca4362e8e) 
-    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-... 
-    _Publicado em 19/06/2026 via $feedName_ 
 <!-- BLOG-POSTS:END -->
 
 <hr style="border: 0; height: 1px; background: #DC143C; margin: 20px 0;" />
