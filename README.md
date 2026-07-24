@@ -238,12 +238,12 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 ## 📰 Atividade pública e publicações
 
 <!-- BLOG-POSTS:START -->
-- [escritor2 created a branch](https://github.com/escritor2/controle-de-gastos/compare/0000000000...532dd92686) 
-    &lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- create --&gt;
+- [escritor2 pushed PFE](https://github.com/escritor2/PFE/compare/0125eccfa6...ddc434da9a) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=... 
-    _Publicado em 21/06/2026 via $feedName_ 
+  &lt;div class=&quot;d-... 
+    _Publicado em 23/07/2026 via $feedName_ 
 <!-- BLOG-POSTS:END -->
 
 <hr style="border: 0; height: 1px; background: #DC143C; margin: 20px 0;" />
