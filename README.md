@@ -238,6 +238,13 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 ## 📰 Atividade pública e publicações
 
 <!-- BLOG-POSTS:START -->
+- [escritor2 pushed PDM](https://github.com/escritor2/PDM/compare/727097c809...efc5c6d3ba) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-... 
+    _Publicado em 12/08/2026 via $feedName_ 
+
 - [escritor2 pushed my-collection-digital](https://github.com/escritor2/my-collection-digital/compare/1ad02c380f...14876d1297) 
     &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
