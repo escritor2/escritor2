@@ -238,6 +238,13 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 ## 📰 Atividade pública e publicações
 
 <!-- BLOG-POSTS:START -->
+- [escritor2 made this repository public](https://github.com/escritor2/Scriptorium) 
+    &lt;div class=&quot;feed-public js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- public --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class... 
+    _Publicado em 13/08/2026 via $feedName_ 
+
 - [escritor2 pushed PDM](https://github.com/escritor2/PDM/compare/727097c809...efc5c6d3ba) 
     &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
@@ -258,13 +265,6 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class=&quot;d-... 
     _Publicado em 07/08/2026 via $feedName_ 
-
-- [escritor2 pushed PFE](https://github.com/escritor2/PFE/compare/0125eccfa6...ddc434da9a) 
-    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-... 
-    _Publicado em 23/07/2026 via $feedName_ 
 <!-- BLOG-POSTS:END -->
 
 <hr style="border: 0; height: 1px; background: #DC143C; margin: 20px 0;" />
