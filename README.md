@@ -238,33 +238,33 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 ## 📰 Atividade pública e publicações
 
 <!-- BLOG-POSTS:START -->
+- [escritor2 pushed Scriptorium](https://github.com/escritor2/Scriptorium/compare/387670b0cf...d88f7bd035) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-... 
+    _Publicado em 14/08/2026 via $feedName_ 
+
+- [escritor2 pushed Scriptorium](https://github.com/escritor2/Scriptorium/compare/bf7557024d...387670b0cf) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-... 
+    _Publicado em 14/08/2026 via $feedName_ 
+
+- [escritor2 pushed Scriptorium](https://github.com/escritor2/Scriptorium/compare/4b025f6fb0...bf7557024d) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-... 
+    _Publicado em 14/08/2026 via $feedName_ 
+
 - [escritor2 made this repository public](https://github.com/escritor2/Scriptorium) 
     &lt;div class=&quot;feed-public js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- public --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class... 
     _Publicado em 13/08/2026 via $feedName_ 
-
-- [escritor2 pushed PDM](https://github.com/escritor2/PDM/compare/727097c809...efc5c6d3ba) 
-    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-... 
-    _Publicado em 12/08/2026 via $feedName_ 
-
-- [escritor2 pushed my-collection-digital](https://github.com/escritor2/my-collection-digital/compare/1ad02c380f...14876d1297) 
-    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-... 
-    _Publicado em 07/08/2026 via $feedName_ 
-
-- [escritor2 pushed my-collection-digital](https://github.com/escritor2/my-collection-digital/compare/527da32bd4...1ad02c380f) 
-    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-... 
-    _Publicado em 07/08/2026 via $feedName_ 
 <!-- BLOG-POSTS:END -->
 
 <hr style="border: 0; height: 1px; background: #DC143C; margin: 20px 0;" />
