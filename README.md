@@ -238,33 +238,33 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 ## 📰 Atividade pública e publicações
 
 <!-- BLOG-POSTS:START -->
-- [escritor2 pushed Scriptorium](https://github.com/escritor2/Scriptorium/compare/387670b0cf...d88f7bd035) 
+- [escritor2 pushed app-music](https://github.com/escritor2/app-music/compare/b082091946...d654575497) 
     &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class=&quot;d-... 
-    _Publicado em 14/08/2026 via $feedName_ 
+    _Publicado em 15/08/2026 via $feedName_ 
 
-- [escritor2 pushed Scriptorium](https://github.com/escritor2/Scriptorium/compare/bf7557024d...387670b0cf) 
+- [escritor2 pushed app-music](https://github.com/escritor2/app-music/compare/93511e8caa...b082091946) 
     &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class=&quot;d-... 
-    _Publicado em 14/08/2026 via $feedName_ 
+    _Publicado em 15/08/2026 via $feedName_ 
 
-- [escritor2 pushed Scriptorium](https://github.com/escritor2/Scriptorium/compare/4b025f6fb0...bf7557024d) 
+- [escritor2 pushed app-music](https://github.com/escritor2/app-music/compare/e8506bfb90...93511e8caa) 
     &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class=&quot;d-... 
-    _Publicado em 14/08/2026 via $feedName_ 
+    _Publicado em 15/08/2026 via $feedName_ 
 
-- [escritor2 made this repository public](https://github.com/escritor2/Scriptorium) 
-    &lt;div class=&quot;feed-public js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- public --&gt;
+- [escritor2 pushed app-music](https://github.com/escritor2/app-music/compare/9f34f88c2d...e8506bfb90) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class... 
-    _Publicado em 13/08/2026 via $feedName_ 
+  &lt;div class=&quot;d-... 
+    _Publicado em 15/08/2026 via $feedName_ 
 <!-- BLOG-POSTS:END -->
 
 <hr style="border: 0; height: 1px; background: #DC143C; margin: 20px 0;" />
