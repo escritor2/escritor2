@@ -238,33 +238,33 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 ## 📰 Atividade pública e publicações
 
 <!-- BLOG-POSTS:START -->
+- [escritor2 pushed IOT-4-TERMO](https://github.com/escritor2/IOT-4-TERMO/compare/7dc643f4b5...4551406e1b) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-... 
+    _Publicado em 24/08/2026 via $feedName_ 
+
+- [escritor2 created a branch](https://github.com/escritor2/IOT-4-TERMO/compare/0000000000...7dc643f4b5) 
+    &lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- create --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=... 
+    _Publicado em 24/08/2026 via $feedName_ 
+
+- [escritor2 starred escritor2/escritor2](https://github.com/escritor2/escritor2) 
+    &lt;div class=&quot;star js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- watch --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex... 
+    _Publicado em 24/08/2026 via $feedName_ 
+
 - [escritor2 pushed Front-end](https://github.com/escritor2/Front-end/compare/fdcb05a4ef...ba3bc4b7ac) 
     &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class=&quot;d-... 
     _Publicado em 20/08/2026 via $feedName_ 
-
-- [escritor2 created a branch](https://github.com/escritor2/Front-end/compare/0000000000...fdcb05a4ef) 
-    &lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- create --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=... 
-    _Publicado em 20/08/2026 via $feedName_ 
-
-- [escritor2 pushed app-music](https://github.com/escritor2/app-music/compare/b082091946...d654575497) 
-    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-... 
-    _Publicado em 15/08/2026 via $feedName_ 
-
-- [escritor2 pushed app-music](https://github.com/escritor2/app-music/compare/93511e8caa...b082091946) 
-    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-... 
-    _Publicado em 15/08/2026 via $feedName_ 
 <!-- BLOG-POSTS:END -->
 
 <hr style="border: 0; height: 1px; background: #DC143C; margin: 20px 0;" />
