@@ -238,6 +238,13 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 ## 📰 Atividade pública e publicações
 
 <!-- BLOG-POSTS:START -->
+- [escritor2 created a branch](https://github.com/escritor2/AI-103/compare/0000000000...01b435b7bc) 
+    &lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- create --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=... 
+    _Publicado em 28/08/2026 via $feedName_ 
+
 - [escritor2 pushed Front-end](https://github.com/escritor2/Front-end/compare/ba3bc4b7ac...75803e0907) 
     &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
@@ -257,13 +264,6 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 &lt;!-- create --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class=... 
-    _Publicado em 24/08/2026 via $feedName_ 
-
-- [escritor2 starred escritor2/escritor2](https://github.com/escritor2/escritor2) 
-    &lt;div class=&quot;star js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- watch --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex... 
     _Publicado em 24/08/2026 via $feedName_ 
 <!-- BLOG-POSTS:END -->
 
