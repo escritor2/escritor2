@@ -238,6 +238,13 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 ## 📰 Atividade pública e publicações
 
 <!-- BLOG-POSTS:START -->
+- [escritor2 pushed AI-103](https://github.com/escritor2/AI-103/compare/01b435b7bc...21fded644a) 
+    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-... 
+    _Publicado em 28/08/2026 via $feedName_ 
+
 - [escritor2 created a branch](https://github.com/escritor2/AI-103/compare/0000000000...01b435b7bc) 
     &lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- create --&gt;
@@ -257,13 +264,6 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 &lt;!-- push --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class=&quot;d-... 
-    _Publicado em 24/08/2026 via $feedName_ 
-
-- [escritor2 created a branch](https://github.com/escritor2/IOT-4-TERMO/compare/0000000000...7dc643f4b5) 
-    &lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- create --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=... 
     _Publicado em 24/08/2026 via $feedName_ 
 <!-- BLOG-POSTS:END -->
 
