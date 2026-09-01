@@ -238,6 +238,13 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 ## 📰 Atividade pública e publicações
 
 <!-- BLOG-POSTS:START -->
+- [escritor2 starred dina-muravska/read-journey](https://github.com/dina-muravska/read-journey) 
+    &lt;div class=&quot;star js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- watch --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex... 
+    _Publicado em 31/08/2026 via $feedName_ 
+
 - [escritor2 pushed AI-103](https://github.com/escritor2/AI-103/compare/01b435b7bc...21fded644a) 
     &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
 &lt;!-- push --&gt;
@@ -258,13 +265,6 @@ Atualmente, estou construindo um perfil técnico orientado a projetos, observabi
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class=&quot;d-... 
     _Publicado em 27/08/2026 via $feedName_ 
-
-- [escritor2 pushed IOT-4-TERMO](https://github.com/escritor2/IOT-4-TERMO/compare/7dc643f4b5...4551406e1b) 
-    &lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-... 
-    _Publicado em 24/08/2026 via $feedName_ 
 <!-- BLOG-POSTS:END -->
 
 <hr style="border: 0; height: 1px; background: #DC143C; margin: 20px 0;" />
