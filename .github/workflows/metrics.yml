@@ -28,7 +28,7 @@ jobs:
       # Gera github-metrics.svg na raiz do repositório.
       # README usa: https://raw.githubusercontent.com/escritor2/escritor2/main/github-metrics.svg
       - name: Generate metrics SVG
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -56,6 +56,7 @@ jobs:
           plugin_code_visibility: public
           plugin_code_lines: 12
           plugin_code_load: 400
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+
+          # plugin_achievements desativado: faz scraping da página de conquistas do
+          # GitHub e costuma quebrar com "Unexpected error" quando o HTML muda.
+          plugin_achievements: no

@@ -55,49 +55,20 @@ Sou **Gabriel Ferreira**, desenvolvedor focado em transformar problemas reais em
 
 ## Projetos em destaque
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/escritor2/descarte-de-insumos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=escritor2&repo=descarte-de-insumos&theme=transparent&hide_border=true&title_color=FF1A4B&icon_color=DC143C&text_color=cad3f5&bg_color=0D1117" alt="descarte-de-insumos" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/escritor2/autorizacao-digital">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=escritor2&repo=autorizacao-digital&theme=transparent&hide_border=true&title_color=FF1A4B&icon_color=DC143C&text_color=cad3f5&bg_color=0D1117" alt="autorizacao-digital" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/escritor2/IOT">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=escritor2&repo=IOT&theme=transparent&hide_border=true&title_color=FF1A4B&icon_color=DC143C&text_color=cad3f5&bg_color=0D1117" alt="IOT" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/escritor2/BCD">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=escritor2&repo=BCD&theme=transparent&hide_border=true&title_color=FF1A4B&icon_color=DC143C&text_color=cad3f5&bg_color=0D1117" alt="BCD" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Repositório | Stack | Destaque |
+|:--|:--|:--|
+| [**descarte-de-insumos**](https://github.com/escritor2/descarte-de-insumos) | TypeScript · CSS · HTML | Frontend estruturado com homepage em produção. |
+| [**autorizacao-digital**](https://github.com/escritor2/autorizacao-digital) | Vue.js · TypeScript · PHP | Fluxo de negócio completo, do backend à interface. |
+| [**IOT**](https://github.com/escritor2/IOT) | HTML · C++ · Python | Integração entre código embarcado e coleta de dados. |
+| [**BCD**](https://github.com/escritor2/BCD) | HTML · PHP · SQL | Modelagem relacional e fundamentos de banco de dados. |
+
+</div>
 
 <br />
 
 ## Estatísticas do GitHub
-
-<p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=escritor2&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=FF1A4B&icon_color=DC143C&text_color=cad3f5&bg_color=0D1117" alt="Estatísticas do GitHub" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escritor2&layout=compact&theme=transparent&hide_border=true&title_color=FF1A4B&icon_color=DC143C&text_color=cad3f5&bg_color=0D1117&langs_count=8" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=escritor2&theme=transparent&no-frame=true&no-bg=true&margin-w=4&column=7&title=DC143C&icon=FF1A4B" alt="Troféus do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=escritor2&theme=react-dark&hide_border=true&area=true&color=FF1A4B&point=FF1A4B&area_color=8B0000&title_color=ffffff&line=DC143C" alt="Gráfico de atividade" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/escritor2/escritor2/main/github-metrics.svg" alt="Métricas avançadas via Lowlighter Metrics" />
