@@ -57,12 +57,12 @@ Sou **Gabriel Ferreira**, desenvolvedor focado em transformar problemas reais em
 
 <div align="center">
 
-| Repositório | Stack | Destaque |
+| Repositório | Stack | O que resolve |
 |:--|:--|:--|
-| [**descarte-de-insumos**](https://github.com/escritor2/descarte-de-insumos) | TypeScript · CSS · HTML | Frontend estruturado com homepage em produção. |
-| [**autorizacao-digital**](https://github.com/escritor2/autorizacao-digital) | Vue.js · TypeScript · PHP | Fluxo de negócio completo, do backend à interface. |
-| [**IOT**](https://github.com/escritor2/IOT) | HTML · C++ · Python | Integração entre código embarcado e coleta de dados. |
-| [**BCD**](https://github.com/escritor2/BCD) | HTML · PHP · SQL | Modelagem relacional e fundamentos de banco de dados. |
+| [**descarte-de-insumos**](https://github.com/escritor2/descarte-de-insumos) · [demo ↗](https://descarte-de-insumos.vercel.app) | React 19 · TypeScript · Tailwind | Formulário digital para registro de descarte de insumos em produção na Baston, com edição em tempo real, exportação em PDF e modo offline. |
+| [**autorizacao-digital**](https://github.com/escritor2/autorizacao-digital) | Laravel · Vue 3 · SQLite | SAFE — sistema de controle de entrada/saída de alunos com fluxo de autorização em múltiplas etapas. |
+| [**IOT**](https://github.com/escritor2/IOT) | C++ · Python · HTML | Experimentos de hardware conectado, ligando sensores físicos a coleta e visualização de dados. |
+| [**BCD**](https://github.com/escritor2/BCD) | SQL · PHP | Modelagem relacional e fundamentos de banco de dados aplicados a um sistema completo. |
 
 </div>
 
