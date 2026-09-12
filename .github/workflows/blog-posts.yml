@@ -33,5 +33,5 @@ jobs:
           date_format: "UTC:dd/mm/yyyy"
           title_max_length: 72
           description_max_length: 140
-          template: "$newline- [$title]($url) $newline    $description $newline    _Publicado em $date via $feedName_ $newline"
+          template: "$newline- [$title]($url) — _$date_"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
