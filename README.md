@@ -109,7 +109,10 @@ Sou **Gabriel Ferreira**, desenvolvedor focado em transformar problemas reais em
 ## Atividade recente
 
 <!-- BLOG-POSTS:START -->
-<!-- BLOG-POSTS:END -->
+- [escritor2 pushed escritor2](https://github.com/escritor2/escritor2/compare/1c5039fd99...fec2b59d01) — _$date_
+- [escritor2 pushed escritor2](https://github.com/escritor2/escritor2/compare/e5c56cb0ea...1c5039fd99) — _$date_
+- [escritor2 pushed escritor2](https://github.com/escritor2/escritor2/compare/f941772a3b...e5c56cb0ea) — _$date_
+- [escritor2 starred dina-muravska/read-journey](https://github.com/dina-muravska/read-journey) — _$date_<!-- BLOG-POSTS:END -->
 
 <br />
 
