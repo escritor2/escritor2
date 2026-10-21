@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg?v=4" alt="Gabriel Ferreira" width="100%" />
+  <img src="banner.svg?v=5" alt="Gabriel Ferreira" width="1200" />
 
   <h1>Olá, eu sou o Gabriel Ferreira 👋</h1>
   <h3>Desenvolvimento web · Automação · IoT</h3>
