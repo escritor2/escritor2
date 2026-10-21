@@ -1,127 +1,113 @@
-<!--
-  README de perfil para @escritor2.
-
-  Fluxos dinâmicos configurados em .github/workflows:
-  - snake.yml: gera a animação Snake a partir do gráfico de contribuições.
-  - metrics.yml: gera métricas avançadas com Lowlighter Metrics.
-  - wakatime.yml: gera o cartão WakaTime quando o segredo WAKATIME_API_KEY estiver configurado.
-  - profile-3d-contrib.yml: gera o gráfico isométrico 3D de contribuições.
-  - blog-posts.yml: atualiza a seção de atividade a partir do feed público do GitHub.
--->
-
-<p align="center">
+<div align="center">
   <img src="banner.svg?v=4" alt="Gabriel Ferreira" width="100%" />
-</p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF1A4B&center=true&vCenter=true&width=760&height=40&lines=Automa%C3%A7%C3%A3o+inteligente+para+sistemas+reais;IoT+com+foco+em+dados+e+confiabilidade;React+Native+para+experi%C3%AAncias+m%C3%B3veis;Vue.js+para+interfaces+reativas+e+escal%C3%A1veis;Processamento+de+dados+do+sensor+ao+dashboard"
-    alt="Efeito de digitação com especialidades"
-  />
-</p>
+  <h1>Olá, eu sou o Gabriel Ferreira 👋</h1>
+  <h3>Desenvolvimento web · Automação · IoT</h3>
+  <p>Transformando processos do dia a dia em aplicações úteis.</p>
 
-<p align="center">
-  <a href="https://github.com/escritor2"><img src="https://img.shields.io/badge/GitHub-escritor2-0D1117?style=flat-square&logo=github&logoColor=white&labelColor=8B0000" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-ferreira-2b7ab5250/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel_Ferreira-0D1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=8B0000" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/debugger.devt/"><img src="https://img.shields.io/badge/Instagram-debugger.devt-0D1117?style=flat-square&logo=instagram&logoColor=white&labelColor=8B0000" alt="Instagram" /></a>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fescritor2&label=views&labelColor=%230D1117&countColor=%23DC143C&style=flat-square" alt="Contador de visualizações" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,java,php,docker,linux,mysql,postgres,mongodb,arduino,raspberrypi,mqtt,tailwind,figma&theme=dark&perline=9" alt="Stack tecnológica" />
-</p>
-
-<p align="center"><sub><b>Automação</b> · <b>IoT</b> · <b>Processamento de dados</b> · <b>React Native</b> · <b>Vue.js</b></sub></p>
-
-<br />
-
-## Sobre mim
-
-Sou **Gabriel Ferreira**, desenvolvedor focado em transformar problemas reais em soluções técnicas robustas — combinando **automação**, **IoT**, **processamento de dados**, **React Native** e **Vue.js**, com atenção a arquiteturas limpas e à integração entre hardware e software.
-
-<div align="center">
-
-| Foco técnico | Como aplico |
-|:--|:--|
-| **Automação** | Fluxos repetíveis, integrações e scripts que reduzem esforço manual e aumentam confiabilidade. |
-| **IoT** | Conecto dispositivos e protocolos para transformar sinais físicos em informação acionável. |
-| **Dados** | Organizo, transformo e visualizo dados para apoiar decisões técnicas e de negócio. |
-| **Mobile** | React Native com foco em performance, usabilidade e manutenção. |
-| **Frontend** | Interfaces reativas com Vue.js, TypeScript e boas práticas de componentização. |
-
+  <a href="https://www.linkedin.com/in/gabriel-ferreira-2b7ab5250/"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-DC143C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="Conversar pelo LinkedIn" /></a>
+  <a href="#-projetos-em-destaque"><img src="https://img.shields.io/badge/Portfólio-Explore_os_projetos-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Explorar projetos" /></a>
 </div>
 
 <br />
 
-## Projetos em destaque
+## / Sobre mim
+
+Sou **Gabriel Ferreira**, desenvolvedor com foco em aplicações web, automação e integração entre software e hardware. Meus projetos exploram problemas de **gestão escolar, rotinas operacionais e organização de informação**, conectando interfaces, regras de negócio e dados.
+
+Gosto de entender o processo antes de escrever o código e construir soluções que façam sentido para quem vai usá-las. Por aqui, compartilho projetos práticos e minha evolução em desenvolvimento.
+
+- **Web:** interfaces com React e Vue/Nuxt, APIs e aplicações com Laravel.
+- **Integrações:** autenticação, perfis de acesso, serviços externos e sincronização de dados.
+- **Além da web:** estudos e experimentos com automação, IoT e desenvolvimento mobile.
+
+<br />
+
+## 🚀 Projetos em destaque
+
+Uma seleção de projetos públicos para conhecer meu trabalho.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 · Descarte de insumos
+**Digitalização de uma rotina operacional.**
+
+Formulário responsivo para registrar descartes, com edição de linhas, salvamento local, uso offline e exportação em PDF.
+
+<sub><b>React · TypeScript · Tailwind CSS · Vite</b></sub>
+
+[Explorar código →](https://github.com/escritor2/descarte-de-insumos) · [Abrir aplicação ↗](https://descarte-de-insumos.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · SAFE — Autorização digital
+**Organização do fluxo de entrada e saída escolar.**
+
+Solicitação, aprovação e validação por perfis de usuário, com notificações por e-mail e registro das movimentações.
+
+<sub><b>Laravel · PHP · Vue 3 · SQLite</b></sub>
+
+[Explorar código →](https://github.com/escritor2/autorizacao-digital)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 · Controle de presença
+**Gestão de frequência conectada aos dados.**
+
+Lançamento de presenças e faltas por turma e disciplina, acesso por perfil e integração com o Google Sheets.
+
+<sub><b>Nuxt · Vue · Prisma · Tailwind CSS</b></sub>
+
+[Explorar código →](https://github.com/escritor2/controle-de-presen-a)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · Acervo Digital
+**Tecnologia para organizar e explorar leituras.**
+
+Projeto colaborativo de biblioteca digital com catálogo integrado a APIs, leitura de PDF/EPUB e recursos de IA para estudo.
+
+<sub><b>Nuxt · Laravel · SQLite · Groq API</b></sub>
+
+[Explorar código →](https://github.com/escritor2/my-collection-digital)
+
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/escritor2?tab=repositories"><b>Ver todos os repositórios ↗</b></a></p>
+
+<br />
+
+## 🛠️ Tecnologias presentes nos meus projetos
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nuxtjs,tailwind,php,laravel,nodejs,prisma,sqlite,git&theme=dark&perline=6" alt="JavaScript, TypeScript, React, Vue, Nuxt, Tailwind CSS, PHP, Laravel, Node.js, Prisma, SQLite e Git" />
+</p>
+
+| Área | Aplicação nos projetos |
+| :-- | :-- |
+| **Interfaces** | Componentes reutilizáveis, formulários e layouts responsivos. |
+| **Backend e dados** | APIs, autenticação, permissões e persistência de dados. |
+| **Integrações** | Google Sheets, catálogos de livros, notificações e serviços de IA. |
+| **Processos** | Fluxos de aprovação, registros operacionais e acompanhamento de frequência. |
+
+<br />
+
+## 🤝 Vamos conversar?
+
+Se você está recrutando ou quer trocar ideias sobre desenvolvimento, conheça meus projetos e entre em contato pelo **[LinkedIn](https://www.linkedin.com/in/gabriel-ferreira-2b7ab5250/)**.
 
 <div align="center">
-
-| Repositório | Stack | O que resolve |
-|:--|:--|:--|
-| [**descarte-de-insumos**](https://github.com/escritor2/descarte-de-insumos) · [demo ↗](https://descarte-de-insumos.vercel.app) | React 19 · TypeScript · Tailwind | Formulário digital para registro de descarte de insumos em produção na Baston, com edição em tempo real, exportação em PDF e modo offline. |
-| [**autorizacao-digital**](https://github.com/escritor2/autorizacao-digital) | Laravel · Vue 3 · SQLite | SAFE — sistema de controle de entrada/saída de alunos com fluxo de autorização em múltiplas etapas. |
-| [**IOT**](https://github.com/escritor2/IOT) | C++ · Python · HTML | Experimentos de hardware conectado, ligando sensores físicos a coleta e visualização de dados. |
-| [**BCD**](https://github.com/escritor2/BCD) | SQL · PHP | Modelagem relacional e fundamentos de banco de dados aplicados a um sistema completo. |
-
+  <br />
+  <b>Do processo à interface. Da ideia ao código.</b>
+  <br /><br />
+  <sub>Gabriel Ferreira · <a href="https://github.com/escritor2">@escritor2</a></sub>
 </div>
-
-<br />
-
-## Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/escritor2/escritor2/main/github-metrics.svg" alt="Métricas avançadas via Lowlighter Metrics" />
-</p>
-
-<!--
-  Cartão WakaTime: só é exibido depois que o segredo WAKATIME_API_KEY for criado em
-  Settings > Secrets and variables > Actions e o workflow wakatime.yml rodar pelo menos uma vez.
-  Até lá, este bloco fica comentado para não deixar uma imagem quebrada no perfil.
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/escritor2/escritor2/main/github-wakatime.svg" alt="Métricas WakaTime por linguagem" />
-  </p>
--->
-
-<br />
-
-## Visualizações dinâmicas
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/escritor2/escritor2/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/escritor2/escritor2/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation consumindo contribuições" src="https://raw.githubusercontent.com/escritor2/escritor2/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/escritor2/escritor2/output-3d-contrib/night.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/escritor2/escritor2/output-3d-contrib/day.svg" />
-    <img alt="Gráfico isométrico 3D de contribuições" src="https://raw.githubusercontent.com/escritor2/escritor2/output-3d-contrib/day.svg" width="100%" />
-  </picture>
-</p>
-
-<br />
-
-## Atividade recente
-
-<!-- BLOG-POSTS:START -->
-- [escritor2 pushed PDM](https://github.com/escritor2/PDM/compare/efc5c6d3ba...f7e8cfd9c6) — _$date_
-- [escritor2 created a branch](https://github.com/escritor2/DevCore/compare/0000000000...bc9eb1f96f) — _$date_<!-- BLOG-POSTS:END -->
-
-<br />
-
-## Contato
-
-<p align="center">
-  <a href="https://github.com/escritor2"><img src="https://img.shields.io/badge/GitHub-escritor2-0D1117?style=flat-square&logo=github&logoColor=white&labelColor=8B0000" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-ferreira-2b7ab5250/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel_Ferreira-0D1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=8B0000" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/debugger.devt/"><img src="https://img.shields.io/badge/Instagram-debugger.devt-0D1117?style=flat-square&logo=instagram&logoColor=white&labelColor=8B0000" alt="Instagram" /></a>
-</p>
-
-<p align="center">
-  <img src="footer.svg?v=4" alt="Gabriel Ferreira" width="100%" />
-</p>
