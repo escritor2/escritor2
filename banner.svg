@@ -1,30 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-<title id="title">Gabriel Ferreira — Desenvolvimento Full Stack</title>
-<desc id="desc">Banner escuro com detalhes vermelhos e uma ilustração de conexões entre código e dados.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Gabriel Ferreira | Desenvolvedor Full Stack</title>
+<desc id="desc">Nome e especialidade aparecem letra por letra, com cursor piscando, ao lado de uma janela de código.</desc>
 <defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#21101A"/></linearGradient>
-<radialGradient id="glow"><stop stop-color="#DC143C" stop-opacity=".25"/><stop offset="1" stop-color="#DC143C" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+<linearGradient id="bg" x2="100%" y2="100%"><stop stop-color="#090C14"/><stop offset=".55" stop-color="#14101C"/><stop offset="1" stop-color="#2D1020"/></linearGradient>
+<radialGradient id="light"><stop stop-color="#F43F68" stop-opacity=".2"/><stop offset="1" stop-color="#F43F68" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#FFFFFF" opacity=".065"/></pattern>
+<clipPath id="name"><rect x="60" y="111" width="461" height="64"><animate attributeName="width" values="0;0;28.8;57.6;86.4;115.2;144;172.8;201.6;230.4;259.2;288;316.8;345.6;374.40000000000003;403.2;432;460.8;460.8;0" keyTimes="0;0.06;0.07125;0.08249999999999999;0.09375;0.105;0.11624999999999999;0.1275;0.13874999999999998;0.15;0.16125;0.1725;0.18375;0.195;0.20625;0.2175;0.22874999999999998;0.24;0.96;1" calcMode="discrete" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="role"><rect x="62" y="189" width="330" height="34"><animate attributeName="width" values="0;0;14.4;28.8;43.2;57.6;72;86.4;100.8;115.2;129.6;144;158.4;172.8;187.20000000000002;201.6;216;230.4;244.8;259.2;273.6;288;302.40000000000003;316.8;331.2;331.2;0" keyTimes="0;0.28;0.2878260869565218;0.2956521739130435;0.30347826086956525;0.31130434782608696;0.3191304347826087;0.3269565217391305;0.3347826086956522;0.34260869565217394;0.35043478260869565;0.3582608695652174;0.36608695652173917;0.37391304347826093;0.38173913043478264;0.38956521739130434;0.3973913043478261;0.40521739130434786;0.4130434782608696;0.42086956521739133;0.42869565217391303;0.4365217391304348;0.44434782608695655;0.4521739130434783;0.46;0.96;1" calcMode="discrete" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="code"><rect x="798" y="149" width="330" height="135"><animate attributeName="width" values="0;0;330;330" keyTimes="0;.48;.65;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
 </defs>
-<rect width="1200" height="340" rx="20" fill="url(#bg)"/>
-<rect width="1200" height="340" rx="20" fill="url(#grid)"/>
-<ellipse cx="970" cy="170" rx="320" ry="260" fill="url(#glow)"/>
-<rect x="50" y="55" width="36" height="4" rx="2" fill="#FF4267"/>
-<text x="100" y="62" font-family="monospace" font-size="14" letter-spacing="3" fill="#EB9CAB">FULL STACK DEVELOPMENT</text>
-<text x="50" y="140" font-family="Arial,Helvetica,sans-serif" font-size="56" font-weight="700" letter-spacing="-2" fill="#F6F8FA">Gabriel Ferreira</text>
-<text x="52" y="184" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#B8C0CC">Ideias que viram soluções.</text>
-<g font-family="monospace" font-size="14" fill="#E6EDF3">
-<rect x="50" y="222" width="150" height="34" rx="17" fill="#FFFFFF" fill-opacity=".05" stroke="#45404A"/><text x="70" y="244">FRONTEND</text>
-<rect x="212" y="222" width="145" height="34" rx="17" fill="#FFFFFF" fill-opacity=".05" stroke="#45404A"/><text x="235" y="244">BACKEND</text>
-<rect x="369" y="222" width="95" height="34" rx="17" fill="#FFFFFF" fill-opacity=".05" stroke="#45404A"/><text x="391" y="244">DADOS</text>
+<rect x="1" y="1" width="1198" height="378" rx="24" fill="url(#bg)" stroke="#49303F"/>
+<rect x="1" y="1" width="1198" height="378" rx="24" fill="url(#dots)"/>
+<ellipse cx="930" cy="200" rx="360" ry="260" fill="url(#light)"/>
+<path d="M700 1L600 379M744 1L644 379" stroke="#F56B8B" stroke-opacity=".06"/>
+<g font-family="monospace">
+<text x="62" y="65" font-size="13" letter-spacing="3" fill="#F68AA6">DESENVOLVENDO IDEIAS EM CÓDIGO</text>
+<circle cx="64" cy="92" r="3" fill="#FF4975"/>
+<path d="M76 92H118" stroke="#FF4975" stroke-width="2"/>
+<text x="60" y="160" font-size="48" font-weight="700" textLength="460.8" lengthAdjust="spacingAndGlyphs" fill="#F4F5FA" clip-path="url(#name)">Gabriel Ferreira</text>
+<rect x="524" y="121" width="3" height="45" fill="#FF557F"><animate attributeName="x" values="62;62;90.8;119.6;148.4;177.2;206;234.8;263.6;292.4;321.2;350;378.8;407.6;436.40000000000003;465.2;494;522.8;522.8;62" keyTimes="0;0.06;0.07125;0.08249999999999999;0.09375;0.105;0.11624999999999999;0.1275;0.13874999999999998;0.15;0.16125;0.1725;0.18375;0.195;0.20625;0.2175;0.22874999999999998;0.24;0.96;1" calcMode="discrete" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" calcMode="discrete" dur="1s" repeatCount="indefinite"/></rect>
+<text x="62" y="214" font-size="24" textLength="331.2" lengthAdjust="spacingAndGlyphs" fill="#FF7196" clip-path="url(#role)">Desenvolvedor Full Stack</text>
+<text x="62" y="254" font-size="15" fill="#A5A7BA">Interfaces. APIs. Dados. Uma aplicação completa.</text>
+<g font-size="12" fill="#D9D9E5">
+<rect x="60" y="286" width="110" height="30" rx="8" fill="#FFFFFF" fill-opacity=".04" stroke="#3B3346"/><text x="80" y="306">FRONTEND</text>
+<rect x="182" y="286" width="104" height="30" rx="8" fill="#FFFFFF" fill-opacity=".04" stroke="#3B3346"/><text x="203" y="306">BACKEND</text>
+<rect x="298" y="286" width="86" height="30" rx="8" fill="#FFFFFF" fill-opacity=".04" stroke="#3B3346"/><text x="321" y="306">DADOS</text>
 </g>
-<text x="52" y="301" font-family="monospace" font-size="13" letter-spacing="2" fill="#8B949E">GITHUB / ESCRITOR2</text>
-<g fill="none" stroke="#FF4267" stroke-opacity=".45" stroke-width="2">
-<path d="M870 170H800V95H755M970 170H1050V85H1100M970 170H1050V255H1100M870 170H800V255H755"/>
-<rect x="858" y="108" width="128" height="124" rx="22" fill="#161B22" stroke-opacity=".8"/>
-<rect x="842" y="92" width="160" height="156" rx="30" stroke-opacity=".15"/>
+<text x="62" y="351" font-size="11" letter-spacing="2" fill="#75778D">GITHUB.COM/ESCRITOR2</text>
+<g transform="translate(754 71) rotate(-2 195 125)">
+<rect x="8" y="12" width="386" height="246" rx="16" fill="#000000" opacity=".2"/>
+<rect width="386" height="246" rx="16" fill="#10131F" stroke="#6D304A"/>
+<path d="M1 44H385" stroke="#2B2C3D"/>
+<circle cx="23" cy="23" r="5" fill="#FF5F76"/><circle cx="42" cy="23" r="5" fill="#E4B75A"/><circle cx="61" cy="23" r="5" fill="#6AC6A4"/>
+<text x="100" y="28" font-size="12" fill="#888BA2">developer.ts</text>
+<g font-size="15">
+<text x="22" y="79" fill="#555B73">01</text><text x="48" y="79" fill="#E7A6C7">const <tspan fill="#DCE0F3">developer = {</tspan></text>
+<text x="22" y="111" fill="#555B73">02</text><text x="66" y="111" fill="#BFC7E3">name: <tspan fill="#B5D8BC">'Gabriel',</tspan></text>
+<text x="22" y="143" fill="#555B73">03</text><text x="66" y="143" fill="#BFC7E3">focus: <tspan fill="#FF88AA">'Full Stack',</tspan></text>
+<text x="22" y="175" fill="#555B73">04</text><text x="66" y="175" fill="#BFC7E3">learning: <tspan fill="#BEA8F5">true</tspan></text>
+<text x="22" y="207" fill="#555B73">05</text><text x="48" y="207" fill="#DCE0F3">};</text>
 </g>
-<g fill="#FF4267"><circle cx="755" cy="95" r="5"/><circle cx="1100" cy="85" r="5"/><circle cx="755" cy="255" r="5"/><circle cx="1100" cy="255" r="5"/></g>
-<text x="878" y="186" font-family="monospace" font-size="40" fill="#FF7691">&lt;/&gt;</text>
-<path d="M50 339H1150" stroke="#FF4267" stroke-opacity=".5" stroke-width="2"/>
+<circle cx="301" cy="224" r="3" fill="#6AC6A4"/><text x="312" y="228" font-size="10" fill="#9297AC">building</text>
+</g>
+</g>
+<path d="M61 379H1139" stroke="#F34A78" stroke-opacity=".5"/>
 </svg>
