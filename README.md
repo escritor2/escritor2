@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/escritor2/escritor2/raw/bc69f107f2d4fd65edfdef6344f561241106fcb3/banner.svg" alt="Gabriel Ferreira" width="1200" />
+  <img src="https://github.com/escritor2/escritor2/raw/1ba4bcaa5d47439951fd98cb89b854bfb5866c99/banner.svg" alt="Gabriel Ferreira" width="1200" />
 
   <h1>Olá, eu sou o Gabriel Ferreira 👋</h1>
   <h3>Desenvolvedor Full Stack</h3>
