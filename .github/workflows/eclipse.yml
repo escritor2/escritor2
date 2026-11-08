@@ -1,0 +1,41 @@
+name: Update Crimson Eclipse
+
+on:
+  # Redesenha o eclipse a cada 3 horas.
+  schedule:
+    - cron: "23 */3 * * *"
+
+  workflow_dispatch:
+
+  # Reexecuta quando o gerador ou este workflow mudam.
+  push:
+    branches:
+      - main
+    paths:
+      - "eclipse/**"
+      - ".github/workflows/eclipse.yml"
+
+jobs:
+  eclipse:
+    name: Generate crimson eclipse
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate SVGs from real contributions
+        run: python3 eclipse/generate.py --out dist-eclipse
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Os SVGs ficam em uma branch propria para nao encher o historico da main.
+      - name: Publish SVGs to eclipse-output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: eclipse-output
+          build_dir: dist-eclipse
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
